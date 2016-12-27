@@ -6,5 +6,8 @@
     "type": "git",
     "url": "git+https://github.com/Surfing-Chef/sassy2.git"
   },
-  "author": "Surfing-Chef"
+  "author": "Surfing-Chef",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
