@@ -63,7 +63,7 @@ $RECYCLE.BIN/
 
 # Sass #
 ########
-*.sass-cache*
+.sass-cache
 node_modules
 .npm-debug.log
 tmp
@@ -71,4 +71,4 @@ tmp
 
 # Logs and databases #
 ######################
-builds/development/images/
+builds/**/images/*
